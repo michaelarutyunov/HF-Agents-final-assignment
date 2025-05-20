@@ -136,6 +136,8 @@ ENV/
 env.bak/
 venv.bak/
 
+.venv311/
+
 # Spyder project settings
 .spyderproject
 .spyproject
@@ -172,3 +174,13 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+metadata_test.jsonl
+metadata_val.jsonl
+get_data.py
+get_dataset_old.py
+get_dataset_2.py
+explore_dataset.ipynb
+gaia_data/
+advanced/
+redundant/
+misc_agent_reports/
